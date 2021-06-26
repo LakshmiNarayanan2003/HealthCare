@@ -13,8 +13,9 @@ Patients can consult & book an appointment with the Doctors. They can use the AI
 - [x] Beautiful UI
 
 ## ✨ Screenshots:
-   <img src="screenshots/home.jpg" width="400"> <img src="screenshots/doctor.jpg" width="400">
-   <img src="screenshots/drawer.jpg" width="400"> <img src="screenshots/profile.jpg" width="400">|
+   <img src="screenshots/doc_log.jpg" width="400"> <img src="screenshots/home.jpg" width="400"> 
+   <img src="screenshots/credit.jpg" width="400"> <img src="screenshots/drawer.jpg" width="400"> 
+   
    
 
 
