@@ -1,6 +1,6 @@
-# health
+# HealthCare
 
-A new Flutter application.
+Patients can consult & book an appointment with the Doctors. They can use the AI for Healthcare to detect diseases early and thereby save their lives!.
 
 ## Getting Started
 
